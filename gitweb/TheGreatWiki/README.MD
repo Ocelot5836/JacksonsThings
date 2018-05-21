@@ -10,7 +10,7 @@ Second, now that you forked GitWeb-Sites you can start creating! In your forked 
 Once you go into those folders you can then go to the pages folder, then a wiki of your choice! Go into either Device-Mod or Minecraft to create your page.
 
 ## Creating
-Now that you have gone into the folders, create a folder of what you want the page to be called, then create a .txt file inside it called "index.txt". Once that is done, you can then create your page.
+Now that you have gone into the folders, create a folder of what you want the page to be called, then create a file inside it (NOT A .TXT) called "index.txt". Once that is done, you can then create your page.
 
 ## Format
 THIS IS VERY IMPORTANT! If you do not follow this, your site will be declined immediately.
