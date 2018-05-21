@@ -1,7 +1,6 @@
 # The Great Wiki
 
-## Getting Start
-ed
+## Getting Started
 So, I hear you want to help contribute to the Great Wiki! That's Great! Let's get started.
 
 
